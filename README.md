@@ -4,7 +4,7 @@
 
 Juego de texto hecho en Python para el mini proyecto **Escape Room** del bootcamp de Data Analytics de Ironhack.
 
-Despiertas en un sofá dentro de una casa que no conoces. Cada objeto que examinas guarda una pista y, juntas, cuentan la historia de **Isolde**: la llamaron bruja, la encerraron en esta casa y la dejaron morir. Para escapar tienes que seguir sus pistas, recoger **4 llaves** y descifrar **1 código**.
+Despiertas en el suelo de una casa que no conoces. Cada objeto que examinas guarda una pista y, juntas, cuentan la historia de **Isolde**: la llamaron bruja, la encerraron en esta casa y la dejaron morir. Para escapar tienes que seguir sus pistas, recoger **4 llaves** y descifrar **1 código**.
 
 ## Grupo 1
 
@@ -39,7 +39,7 @@ Para parar el juego a mitad, usa el botón ⏹ (Interrupt).
 
 | Habitación    | Objetos                                   |
 |---------------|-------------------------------------------|
-| `game_room`   | mirror, closet, keyboard                  |
+| `game_room`   | mirror, keyboard                          |
 | `bedroom_1`   | photograph, lamp, queen_bed               |
 | `bedroom_2`   | laptop, bookshelf, bed                    |
 | `living_room` | clock, closet_living_room (con candado 🔒) |
